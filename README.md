@@ -37,6 +37,6 @@ A collection of common algorithms and data structures implemented in JavaScript.
 ## 📫 How to reach me
 - **Email:** [mahdavi2it@gmail.com](mailto:mahdavi2it@gmail.com)
 - **LinkedIn:** [linkedin.com/in/master2it](https://www.linkedin.com/in/master2it/)
-- **Website:** [MehranTech.ir](https://www.MehranTech.ir)
+- **Website:** [Master2iT.ir](https://www.Master2iT.ir)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and get in touch!
