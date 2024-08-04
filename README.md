@@ -31,9 +31,6 @@ A collection of common algorithms and data structures implemented in JavaScript.
 
 - **Content:** Sorting algorithms, searching algorithms, data structures like stacks, queues, and linked lists
 
-## 📈 GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=master2it&show_icons=true&theme=radical)](https://github.com/master2it)
-
 ## 📫 How to reach me
 - **Email:** [mahdavi2it@gmail.com](mailto:mahdavi2it@gmail.com)
 - **LinkedIn:** [linkedin.com/in/master2it](https://www.linkedin.com/in/master2it/)
