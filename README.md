@@ -1,6 +1,6 @@
 # Hi there, I'm Mehran Mahdavi 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Master2iT)
+[![GitHub followers](https://img.shields.io/github/followers/master2it?label=Follow&style=social)](https://github.com/Master2iT)
 [![Linkedin: Master2iT](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehran-mahdavi/)](https://www.linkedin.com/in/mehran-mahdavi/)
 
 ## 🚀 About Me
