@@ -1,7 +1,7 @@
 # Hi there, I'm Mehran Mahdavi 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/master2it?label=Follow&style=social)](https://github.com/Master2iT)
-[![Linkedin: Master2iT](https://img.shields.io/badge/-Master2iT-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehran-mahdavi/)](https://www.linkedin.com/in/mehran-mahdavi/)
+[![Linkedin: Master2iT](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehran-mahdavi/)](https://www.linkedin.com/in/mehran-mahdavi/)
 
 ## 🚀 About Me
 I am a passionate Frontend Engineer with a love for creating beautiful and functional user interfaces. I specialize in modern web technologies and frameworks, and I am constantly learning and improving my skills. My goal is to build web applications that provide excellent user experiences and meet business objectives.
